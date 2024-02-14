@@ -1,0 +1,87 @@
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 17:56:16
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 17:56:31
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 17:57:14
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 17:57:38
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 17:58:49
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 17:59:47
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 18:02:00
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 18:05:00
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 18:05:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 18:07:05
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 18:07:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 18:08:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 18:36:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 18:36:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 22:27:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 22:27:09
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 22:27:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 22:31:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 22:32:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 6 OFFSET 0' at line 1	07.12.23 22:33:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESCLIMIT 6 OFFSET 0' at line 1	07.12.23 22:33:32
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 22:34:22
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 22:34:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'name DESC LIMIT 6 OFFSET 0' at line 1	07.12.23 22:36:56
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 22:37:14
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 22:37:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'name DESC LIMIT 6 OFFSET 0' at line 1	07.12.23 22:37:52
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	07.12.23 22:38:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':idCategory ORDER BY price DESC LIMIT 6 OFFSET 0' at line 1	07.12.23 22:38:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':idCategory ORDER BY price DESC LIMIT 6 OFFSET 0' at line 1	07.12.23 22:39:00
+SMTP Error: Could not authenticate.	09.12.23 15:19:38
+SMTP Error: Could not authenticate.	09.12.23 15:23:46
+SMTP Error: Could not authenticate.	09.12.23 15:24:00
+SMTP Error: Could not authenticate.	09.12.23 15:24:08
+SMTP Error: Could not authenticate.	09.12.23 15:25:04
+SMTP Error: Could not authenticate.	09.12.23 15:26:44
+SMTP Error: Could not authenticate.	09.12.23 15:27:15
+SMTP Error: Could not authenticate.	09.12.23 15:36:16
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 15:37:48
+SMTP Error: Could not authenticate.	09.12.23 15:39:04
+SMTP Error: Could not authenticate.	09.12.23 15:39:17
+SMTP Error: Could not authenticate.	09.12.23 15:42:01
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 15:42:45
+SMTP Error: Could not authenticate.	09.12.23 15:52:02
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 15:52:14
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 16:23:42
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 16:49:07
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 16:50:48
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 16:52:05
+SMTP Error: Could not connect to SMTP host. Failed to connect to server	09.12.23 16:52:50
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined	18.12.23 23:53:53
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined	20.12.23 13:57:09
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined	20.12.23 13:57:21
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined	20.12.23 13:57:21
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined	20.12.23 14:01:05
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined	20.12.23 14:02:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'date_registration' in 'order clause'	20.12.23 15:48:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '1513', 'in ...' at line 1	21.12.23 16:24:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '1513', 'in ...' at line 1	21.12.23 16:25:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '1513', 'in ...' at line 1	21.12.23 16:26:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '925', 'in p...' at line 1	21.12.23 16:40:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '925', 'in p...' at line 1	21.12.23 16:41:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '3026', 'in ...' at line 1	21.12.23 16:44:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '3026', 'in ...' at line 1	21.12.23 16:51:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 16:52:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 16:54:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 16:55:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713.00', 'i...' at line 1	21.12.23 16:57:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713.00', 'i...' at line 1	21.12.23 16:57:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713.00', 'i...' at line 1	21.12.23 16:57:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 16:58:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 16:58:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 17:01:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 17:01:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 17:01:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'in p...' at line 1	21.12.23 17:01:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'order (idUser, totalAmount, orderStatus, orderedAt) VALUES ('2', '713', 'sent...' at line 1	21.12.23 17:02:51
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`gigatronic_shop`.`customer_order`, CONSTRAINT `customer_order_ibfk_1` FOREIGN KEY (`idOrder`) REFERENCES `order_items` (`idOrder`))	21.12.23 17:08:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS users FROM user' at line 1	25.12.23 14:13:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS users FROM user' at line 1	25.12.23 14:13:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS users FROM user' at line 1	25.12.23 14:13:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS userCount FROM user' at line 1	25.12.23 14:14:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS userCount FROM user' at line 1	25.12.23 14:14:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS userCount FROM user' at line 1	25.12.23 14:14:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS userCount FROM user' at line 1	25.12.23 14:14:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS userCount FROM user' at line 1	25.12.23 14:15:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE idOrder = '2' AND orderStatus = 'sent'' at line 1	25.12.23 15:27:01
