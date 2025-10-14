@@ -3,7 +3,7 @@
 **Gigatronic Shop** is a full-stack PHP e-commerce web application built as part of a university project at Visoka škola strukovnih studija za informacione i komunikacione tehnologije.
 The project demonstrates core e-commerce functionality with dynamic content loading, user authentication, and an advanced admin dashboard.
 
-🔗 Live demo: https://gacodev.gigatronicshop.com
+🔗 Live demo: https://gacho-dev.rs/gigatronic-shop
 
 👨‍💻 Admin login: <br/>
 Email: admin@gmail.com <br/>
