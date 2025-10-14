@@ -5,6 +5,10 @@ The project demonstrates core e-commerce functionality with dynamic content load
 
 🔗 Live demo: https://gacho-dev.rs/gigatronic-shop
 
+📄 Documentation and Database: <br/>
+📘 Full Project Documentation (PDF) - https://github.com/MarkoG111/gigatronic_shop/blob/master/Dokument.pdf <br/>
+🗄️ Database SQL File - https://github.com/MarkoG111/gigatronic_shop/blob/master/gigatronic_shop.sql
+
 👨‍💻 Admin login: <br/>
 Email: admin@gmail.com <br/>
 Password: Gacanovic121
