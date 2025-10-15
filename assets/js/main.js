@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost/Gigatronic_Shop/";
+const BASE_URL = "http://localhost/gigatronic_shop/";
 
 $(document).ready(function () {
   populateAllArticles();
