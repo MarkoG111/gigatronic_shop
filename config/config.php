@@ -1,7 +1,7 @@
 <?php
-define("BASE_URL", "http://localhost/Gigatronic_Shop/");
+define("BASE_URL", "http://localhost/gigatronic_shop/");
 
-define("ABSOLUTE_PATH", $_SERVER["DOCUMENT_ROOT"] . "/Gigatronic_Shop/");
+define("ABSOLUTE_PATH", $_SERVER["DOCUMENT_ROOT"] . "/gigatronic_shop/");
 
 define("ERRORS_FILE", ABSOLUTE_PATH . "data/errors.txt");
 define("LOGIN_FILE", ABSOLUTE_PATH . "data/login.txt");
