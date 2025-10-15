@@ -53,13 +53,13 @@
                         </li>
                         <li>
                             <i class="fa fa-angle-right"></i>
-                            <a href="https://www.linkedin.com/in/marko-gacanovic-4a133016a/">
+                            <a href="https://www.linkedin.com/in/marko-ga%C4%8Danovi%C4%87-4a133016a/" target="_blank">
                                 Link to bio
                             </a>
                         </li>
                         <li>
                             <i class="fa fa-angle-right"></i>
-                            <a href="#">
+                            <a href="https://github.com/MarkoG111/gigatronic_shop/blob/master/Dokument.pdf" target="_blank">
                                 Documentation
                             </a>
                         </li>
