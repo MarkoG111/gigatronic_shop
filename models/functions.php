@@ -66,12 +66,21 @@ function getPageTrafficData()
         foreach ($file as $row) {
             $part = explode("\t", $row);
 
-            $url = explode(".php", $part[0]); // index.php?page=home
-            $page = explode("&", $url[1]); // ?page=home
+            if (count($part) < 2) {
+                continue;
+            }
+
+            $url = explode(".php", $part[0]);
+            if (count($url) < 2) {
+                continue;
+            }
+
+            $page = explode("&", $url[1]);
+            $pageName = $page[0] ?? '';
 
             // '26.04.2020 17:42:38'
             if (strtotime($part[1]) >= $yesterday) {
-                switch ($page[0]) {
+                switch ($pageName) {
                     case "?page=home":
                         $home++;
                         $sum++;
