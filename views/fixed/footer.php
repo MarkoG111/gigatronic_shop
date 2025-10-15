@@ -40,7 +40,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.linkedin.com/in/marko-gacanovic-4a133016a/">
+                            <a href="https://www.linkedin.com/in/marko-ga%C4%8Danovi%C4%87-4a133016a/" target="_blank">
                                 <i class="fab fa-linkedin fa-2x"></i>
                             </a>
                         </li>
