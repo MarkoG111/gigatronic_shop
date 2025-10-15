@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 25, 2023 at 11:52 PM
--- Server version: 10.4.28-MariaDB
--- PHP Version: 8.0.28
+-- Generation Time: Oct 15, 2025 at 11:02 AM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -120,7 +120,8 @@ CREATE TABLE `customer_order` (
 INSERT INTO `customer_order` (`idOrder`, `idUser`, `totalAmount`, `orderStatus`, `orderedAt`) VALUES
 (2, 2, 3200.00, 'not processed', '2023-12-25 14:46:01'),
 (3, 4, 1253.00, 'in preparation', '2023-12-25 15:31:41'),
-(4, 4, 800.00, 'sent', '2023-12-25 16:46:09');
+(4, 4, 800.00, 'sent', '2023-12-25 16:46:09'),
+(5, 7, 245.00, 'in preparation', '2025-10-15 10:40:56');
 
 -- --------------------------------------------------------
 
@@ -190,7 +191,8 @@ INSERT INTO `order_items` (`idOrderItems`, `idOrder`, `idArticle`, `quantity`, `
 (3, 3, 31, 2, 75.00),
 (4, 3, 36, 2, 195.00),
 (5, 3, 33, 1, 713.00),
-(6, 4, 32, 1, 800.00);
+(6, 4, 32, 1, 800.00),
+(7, 5, 37, 1, 245.00);
 
 -- --------------------------------------------------------
 
@@ -259,7 +261,9 @@ INSERT INTO `user` (`idUser`, `firstName`, `lastName`, `email`, `username`, `pas
 (1, 'Marko', 'Gačanović', 'marko@gmail.com', 'marko', 'c6c0d95e21b180ce7cd28ee7ced3c09a', b'1', '2023-12-19 15:39:47', '2023-12-20 14:51:11', 1),
 (2, 'Sofija', 'Jovanovic', 'sofija@gmail.com', 'sofija', '3ffce8b5dc9b332323170b56dbfc0692', b'1', '2023-12-20 20:41:25', '2023-12-20 20:41:25', 2),
 (3, 'Ivan', 'Gacanovic', 'ivan@gmail.com', 'ivan', 'fc4fbc062821bcc05d785042756a522f', b'1', '2023-12-23 14:18:18', '2023-12-23 14:18:18', 1),
-(4, 'Petar', 'Markovic', 'pera@gmail.com', 'pera', '84ffab222c2cdb1c32cdae09f9907400', b'1', '2023-12-25 15:31:00', '2023-12-25 15:31:00', 2);
+(4, 'Petar', 'Markovic', 'pera@gmail.com', 'pera', '84ffab222c2cdb1c32cdae09f9907400', b'1', '2023-12-25 15:31:00', '2023-12-25 15:31:00', 2),
+(6, 'Admin', 'Basic', 'admin@gmail.com', 'admin133', 'd55b6a09d86d3079bb956c9a3f95490f', b'1', '2025-10-15 10:09:39', '2025-10-15 10:35:24', 1),
+(7, 'Marko', 'Gačanović', 'marko@gmail.com', 'markonen', '213a3bf5f18daf177a3420a069d714b2', b'1', '2025-10-15 10:40:12', '2025-10-15 10:40:12', 2);
 
 -- --------------------------------------------------------
 
@@ -281,7 +285,8 @@ INSERT INTO `voting` (`idVoting`, `idAnswer`, `idUser`) VALUES
 (1, 1, 3),
 (2, 7, 2),
 (3, 2, 4),
-(4, 1, 2);
+(4, 1, 2),
+(5, 3, 7);
 
 --
 -- Indexes for dumped tables
@@ -388,7 +393,7 @@ ALTER TABLE `category`
 -- AUTO_INCREMENT for table `customer_order`
 --
 ALTER TABLE `customer_order`
-  MODIFY `idOrder` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `idOrder` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `menu`
@@ -406,7 +411,7 @@ ALTER TABLE `menu_group`
 -- AUTO_INCREMENT for table `order_items`
 --
 ALTER TABLE `order_items`
-  MODIFY `idOrderItems` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `idOrderItems` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `poll`
@@ -424,13 +429,13 @@ ALTER TABLE `role`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `idUser` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `idUser` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `voting`
 --
 ALTER TABLE `voting`
-  MODIFY `idVoting` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `idVoting` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- Constraints for dumped tables
