@@ -94,7 +94,7 @@ The project is a web shop for selling electronic components, featuring: <br/>
 git clone https://github.com/YOUR_USERNAME/gigatronic_shop.git
 ```
 
-2. Import the database from root: gigatronic.sql
+2. Import the database from root: gigatronic_shop.sql
 3. Configure database credentials in: Config/config.php
 4. Run a local server (e.g. XAMPP / WAMP)
 5. Open in browser: http://localhost/Gigatronic_Shop/
