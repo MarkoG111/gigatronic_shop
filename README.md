@@ -3,7 +3,7 @@
 **Gigatronic Shop** is a full-stack PHP e-commerce web application built as part of a university project at Visoka škola strukovnih studija za informacione i komunikacione tehnologije.
 The project demonstrates core e-commerce functionality with dynamic content loading, user authentication, and an advanced admin dashboard.
 
-🔗 Live demo: https://gacho-dev.rs/gigatronic-shop
+🔗 Live demo: https://gigatronic-shop.infinityfree.me/
 
 📄 Documentation and Database: <br/>
 📘 Full Project Documentation (PDF) - https://github.com/MarkoG111/gigatronic_shop/blob/master/Dokument.pdf <br/>
@@ -94,7 +94,7 @@ The project is a web shop for selling electronic components, featuring: <br/>
 git clone https://github.com/YOUR_USERNAME/gigatronic_shop.git
 ```
 
-2. Import the database from /database/gigatronic.sql
-3. Configure database credentials in: config/config.php
+2. Import the database from root: gigatronic_shop.sql
+3. Configure database credentials in: Config/config.php
 4. Run a local server (e.g. XAMPP / WAMP)
 5. Open in browser: http://localhost/Gigatronic_Shop/
